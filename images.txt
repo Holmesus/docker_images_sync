@@ -1,1 +1,1 @@
-openclaw-gateway
+openclaw/openclaw-gateway:latest
