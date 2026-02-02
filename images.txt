@@ -1,1 +1,1 @@
-openclaw-cli
+openclaw-gateway
